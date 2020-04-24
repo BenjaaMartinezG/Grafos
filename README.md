@@ -1,6 +1,6 @@
 # Grafos
 Programa que:
-* Muestra Matriz de Adacencia de un Grafo Ingresado
+* Muestra Matriz de Adyacencia de un Grafo Ingresado
 * Verifica si es Conexo
 * Muestra Caminos del Grafo
 * Camino Mas Corto "Dijkstra"
