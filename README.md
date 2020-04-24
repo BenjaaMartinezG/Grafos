@@ -11,7 +11,7 @@ Para instalar deben clonar el Repositorio
 git clone 
 ```
 ### Ejecucion
-Dirigirse en su consola hacia la carpeta
+Dirigirse en su consola hacia la carpeta y ejecutar:
 ```
 cd Grafos
 main.py
